@@ -8,7 +8,7 @@ export function Footer() {
         <div>
           <p className="font-display text-headline-sm font-black text-primary-fixed-dim">King&apos;s Dine</p>
           <p className="font-body-md mt-2 max-w-xs text-surface-variant/80">
-            High-end casual dining, delivered fast. Fresh ingredients, gold-standard service.
+            High-end casual dining and lunch, delivered fast. Fresh ingredients, gold-standard service.
           </p>
         </div>
         <div className="flex gap-stack-lg">
